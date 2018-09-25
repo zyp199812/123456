@@ -1,8 +1,6 @@
-
-# 如何学习
-
-sfkslj
-=======
-
-xuexczxxz
-
+class dognwuyuan {
+	public static void main(String[] args) {
+		String a;
+		a="动物园";
+	}
+}
